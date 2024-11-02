@@ -1,8 +1,9 @@
- <H3>Manoj M</H3>
-<H3>212221240027</H3>
-<H3>EX. NO.8</H3>
-<H3>DATE:30.10.24</H3>
+<H4>Aashima Nazreen S</H4>
+<H4>212221240002</H4>
+<H4>EX. NO.8</H4>
+<H4>DATE: 21.10.24</H4>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
+
 ## Aim:
  To implement the conversion of live speech to text.<BR>
 ## Algorithm:
